@@ -1,11 +1,11 @@
 # nextjs-dashboard
 
-Sunucu metrikleri ve whitelist yönetimi için Next.js paneli.
+Next.js admin panel for server metrics and whitelist management.
 
-## Kurulum
+## Setup
 - npm ci
 - npm run dev
 
-## Ortam
+## Env
 - API_BASE_URL
 - DATABASE_URL
